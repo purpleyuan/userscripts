@@ -11,7 +11,7 @@
 const styles = new CSSStyleSheet();
 styles.replaceSync(`html,
     .flat-list.buttons {
-        font-size: small;
+        font-size: medium;
     }
 `);
 
